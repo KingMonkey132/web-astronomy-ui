@@ -1,0 +1,65 @@
+body {
+    background-image: url('../img/background.png');
+    text-align: center;
+    padding-bottom: 20px;
+    /* background-color: black; */
+}
+
+.carousel-inner img{
+    max-height: 300px;
+}
+
+#carouselExampleCaptions {
+    border: 1px solid white;
+    margin-top: 0px;
+    border-top:none;
+}
+
+#quotes {
+    padding-top: 20px;
+    padding-bottom: 10px;
+    text-align: center;
+    font-family: Lustria;
+    color: white;
+}
+
+
+#banner-logo {
+    max-height: 100px;
+    clip: rect(20px 0px 20px 0px);
+}
+
+#aboutus{
+    background-color: rgb(175, 175, 175);
+    /* text-align: justify; */
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+#company-icon{
+    max-height: 270px;
+    position:relative;
+    left: 0px;
+    border-radius: 50%;
+    margin-bottom: 10px;
+}
+
+/* #about-us-title{
+    text-align: center;
+} */
+
+#gallery{
+    color: white;
+    padding-top: 20px;
+}
+
+.card {
+    margin-top: 20px;
+    height: 450px;
+}
+
+.card-img-top {
+   
+    height: 300px;
+}
+
